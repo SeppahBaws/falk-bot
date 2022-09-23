@@ -6,6 +6,6 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "discord.js": "^14.4.0"
   }
 }

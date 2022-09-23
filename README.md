@@ -1,5 +1,7 @@
 # How to run the bot
 
+Important: make sure to enable the "message content intent" in your bot's privileged gateway intents.
+
 prerequisites:
 - [nodejs](https://nodejs.org/en/)
 
